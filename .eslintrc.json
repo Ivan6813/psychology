@@ -23,6 +23,7 @@
       }
     ],
     "no-var": "error",
-    "prefer-const": "warn"
+    "prefer-const": "warn",
+    "react/react-in-jsx-scope": "off"
   }
 }
