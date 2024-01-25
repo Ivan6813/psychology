@@ -1,5 +1,6 @@
 import { About } from '../about';
 import { Achievements } from '../achievements';
+import { Services } from '../services';
 import styles from './main.module.css';
 
 export const Main = () => (
@@ -7,6 +8,7 @@ export const Main = () => (
     <div className='container'>
       <About />
       <Achievements />
+      <Services />
     </div>
   </main>
 );
