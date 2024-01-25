@@ -1,0 +1,25 @@
+.achievements {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.achievement {
+  text-align: center;
+}
+
+.quantity {
+  color: #95725c;
+  font-family: 'Playfair Display';
+  font-size: 150px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.text {
+  color: #95725c;
+  font-family: 'Montserrat';
+  font-size: 36px;
+  font-weight: 400;
+}
