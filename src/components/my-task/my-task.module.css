@@ -1,0 +1,42 @@
+.task {
+  margin-top: 128px;
+  display: flex;
+  gap: 128px;
+}
+
+.taskPhoto {
+  box-shadow: 15px 15px 60px 2px rgba(149, 114, 92, 0.5);
+}
+
+.taskPhoto img {
+  width: 100%;
+}
+
+.taskText {
+  color: #000;
+  font-family: 'Montserrat';
+  font-size: 24px;
+  line-height: 143%;
+  font-variant: small-caps;
+  max-width: 595px;
+  margin-top: 36px;
+}
+
+.taskText span {
+  color: #95725c;
+  font-family: 'Playfair Display';
+  font-weight: 600;
+  font-style: italic;
+  font-variant: normal;
+}
+
+.introduction {
+  font-size: 36px;
+  font-family: 'Playfair Display';
+  font-variant: normal;
+}
+
+.introduction::first-letter {
+  font-style: italic;
+  font-weight: 600;
+}
