@@ -7,6 +7,8 @@
     "yarn": ">=3.6.4"
   },
   "dependencies": {
+    "@alfalab/core-components-input": "14.2.0",
+    "@alfalab/core-components-select": "17.2.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",

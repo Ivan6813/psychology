@@ -6,13 +6,13 @@ export const Header = () => (
       <nav>
         <ul className={styles.navList}>
           <li>
-            <a href='/'>Elen Tseluiko</a>
+            <a href='/psychology'>Elen Tseluiko</a>
           </li>
           <li className={styles.navItem}>
-            <a href='/'>Услуги</a>
+            <a href='/psychology'>Услуги</a>
           </li>
           <li className={styles.navItem}>
-            <a href='/'>Контакты</a>
+            <a href='/psychology'>Контакты</a>
           </li>
         </ul>
       </nav>
