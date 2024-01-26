@@ -1,5 +1,6 @@
 import { About } from '../about';
 import { Achievements } from '../achievements';
+import { Contacts } from '../contacts';
 import { MyTask } from '../my-task';
 import { Services } from '../services';
 import { SignUpForm } from '../sign-up-form';
@@ -13,6 +14,7 @@ export const Main = () => (
       <Services />
       <SignUpForm />
       <MyTask />
+      <Contacts />
     </div>
   </main>
 );

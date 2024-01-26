@@ -1,0 +1,35 @@
+.contacts {
+  margin: 128px 0;
+  display: flex;
+  gap: 24px;
+}
+
+.questions {
+  padding: 32px 80px;
+  border-radius: 20px;
+  border: 1px solid #a18979;
+  background: #f4e3d9;
+  color: #95725c;
+  font-family: 'Montserrat';
+  font-size: 40px;
+  font-variant: small-caps;
+}
+
+.socialMediaList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  flex: 1 1 30%;
+}
+
+.socialMediaItem {
+  text-align: center;
+  padding: 32px 0px;
+  border-radius: 20px;
+  border: 1px solid #a18979;
+  background: #efefe6;
+  color: #000;
+  font-family: 'Montserrat';
+  font-size: 24px;
+  text-transform: capitalize;
+}
